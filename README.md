@@ -29,6 +29,10 @@ EmojiReplacer.watch(myTextView);
 This library is built upon the great work of the [emoji-java][emojijava] project.
 See NOTICE file for an exhaustive list of used libraries.
 
+## Contributing
+
+Feel free to contribute ! The project is managed using [git flow](http://danielkummer.github.io/git-flow-cheatsheet/) workflow.
+
 ## License
 
     Copyright 2016 Jules Tréhorel
